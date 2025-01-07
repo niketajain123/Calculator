@@ -3,4 +3,5 @@ class Calculator{
 	System.out.println("Welcome to calculator!");
 	System.out.println("5+5 : "+(5+5));
 	System.out.println("5-5 : "+(5-5));
+	System.out.println("5*5 : "+(5*5));
 }}
